@@ -1,0 +1,51 @@
+Commands For The Voice Project
+
+1. Hello
+
+2. I Am fine
+
+3. what is your name?
+
+4. what is my name?
+
+5. how are you?
+
+6. the time
+
+7. Date
+
+8. tell me joke
+
+9. open Google
+
+10. open youtube
+ 
+11. open wikipedia
+
+12. open facebook
+
+13. play music on pc
+
+14. open word
+
+15. open excel
+
+16. how to
+
+17. temperature
+   
+18. information
+
+19. play video on youtube
+
+20. open map
+
+21. youtube search
+
+22. google search
+
+23. take a screenshot
+
+24. repeat my word
+
+25. Tata Bye Bye
