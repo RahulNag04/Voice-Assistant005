@@ -4,48 +4,70 @@ Commands For The Voice Project
 
 2. I Am fine
 
-3. what is your name?
+3. Good Morning
 
-4. what is my name?
+4. What is your name?
 
-5. how are you?
+5. What is my name?
 
-6. the time
+6. How are you?
 
-7. Date
+7. Time
 
-8. tell me joke
+8. Date
 
-9. open Google
+9. Day
 
-10. open youtube
+10. Tell me joke
+
+11. Open Google Chrome
+
+12. Open Google
+
+13. Open youtube
  
-11. open wikipedia
+14. Open wikipedia
 
-12. open facebook
+15. Open facebook
 
-13. play music on pc
+16. Open instagram
 
-14. open word
+17. Open twitter
 
-15. open excel
+18. Open website
 
-16. how to
+19. Play music on pc
 
-17. temperature
+20. Play movie or Watch Movie
+
+21. Open cmd or Command Prompt
+
+22. Open notepad
+
+23. Open word
+
+24. Open excel
+
+25. How to 
    
-18. information
+26. Information
 
-19. play video on youtube
+27. Play video on youtube
 
-20. open map
+28. Open map
 
-21. youtube search
+29. Youtube search
 
-22. google search
+30. Google search
 
-23. take a screenshot
+31. Take a screenshot
 
-24. repeat my word
+32. Repeat my word
 
-25. Tata Bye Bye
+33. Temperature 
+
+34. Good Evening
+
+35. Good Night
+
+36. Quit
